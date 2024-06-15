@@ -1,4 +1,5 @@
-<img src="https://healthyframework.com/wp-content/uploads/2021/02/Tinder-Homepage.jpg" />
+![tinder-clone-banner](https://github.com/IryDev/tinder-clone/assets/86270481/fd132e36-01a6-4d26-833d-4947e85c90e3)
+
 <div align="center">
   <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
@@ -7,11 +8,7 @@
   </div>
 </div>
 
-<h3 align="center">Tinder Clone FullStack App</h3>
-
-<div align="center">
-     A Tinder Clone App 
-</div>
+<h1 align="center">Tinder Clone FullStack App</h1>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -22,8 +19,6 @@
 5. 🔗 [Contact](#more)
 
 ## <a name="introduction">💻📱 Introduction</a>
-
-💻📱 Introduction
 
 Welcome to my Tinder Clone FullStack App! This app is designed to help you find love in a modern and convenient way. With its intuitive user interface and powerful features, you'll have the opportunity to connect with potential matches and build meaningful relationships.
 
@@ -53,7 +48,7 @@ Be sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/IryDev/tinder-clone.git
-cd web
+cd tinder-clone
 ```
 
 code from Terminal and run.
